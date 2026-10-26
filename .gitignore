@@ -1,0 +1,8 @@
+build/
+dist/
+_build_src/
+*.spec
+__pycache__/
+*.pyc
+shield.log.jsonl
+shield.jsonl
